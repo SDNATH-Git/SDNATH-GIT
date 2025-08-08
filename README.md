@@ -66,18 +66,18 @@ Currently diving deeper into advanced **Next.js** concepts and **server-side ren
 
 ## 📊 GitHub Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SDNATH-Git&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/> 
-  <img src="https://streak-stats.demolab.com?user=SDNATH-Git&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="150"/>
-</p>
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SDNATH-Git&show_icons=true&theme=tokyonight&hide_border=false)  
 
-<p align="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDNATH-Git&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-</p>
+<!-- Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SDNATH-Git&theme=tokyonight&hide_border=false)  
 
-<p align="">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SDNATH-Git&theme=tokyonight" alt="GitHub Metrics"/>
-</p>
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SDNATH-Git&layout=compact&theme=tokyonight&hide_border=false)  
+
+<!-- Profile Summary -->
+![GitHub Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SDNATH-Git&theme=tokyonight)  
+
 
 
 
