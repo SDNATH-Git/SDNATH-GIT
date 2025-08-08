@@ -1,10 +1,8 @@
-![I am GitHub Readme Generator's creator](https://i.ibb.co.com/Sw5VhRnC/Black-Abstract-Software-Technology-Corporate-Linked-In-Banner.png)
+![I am GitHub Readme Generator's creator](https://i.ibb.co.com/S71D4qw6/Black-Abstract-Software-Technology-Corporate-Linked-In-Banner-1584-x-540-px.png)
 
- <!-- Profile Banner -->
-![Banner](assets/banner.png)
 
-<h1 align="center">👋 Hi, I'm <span style="color:#4F46E5;">Shuvo Dev Nath</span></h1>
-<h3 align="center">💻 Frontend Developer | Web Developer</h3>
+<h1 >👋 Hi, I'm <span style="color:#4F46E5;">Shuvo Dev Nath</span></h1>
+<h3 >💻 Web Developer</h3>
 
 ---
 
@@ -17,7 +15,7 @@ Currently diving deeper into advanced **Next.js** concepts and **server-side ren
 
 ## 📌 Current Activities
 - 🚀 Exploring **Next.js** and its ecosystem.
-- 🏞️ Developing a **Tourism Website** project.
+- 🏞️  Developing a **Blood Donation Website** project.
 - 📊 Implementing advanced **data visualizations** with Chart.js.
 - 🌱 Enhancing UI/UX in my **Food Sharing** project.
 
@@ -50,9 +48,19 @@ Currently diving deeper into advanced **Next.js** concepts and **server-side ren
 ---
 
 ## 🌐 Social Links
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/YOUR-TWITTER)
+
+<p align="left">
+  <a href="https://github.com/SDNATH-Git" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/sd-nath-359703255/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://x.com/SDNATH1971">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  </a>
+</p>
+
 
 ---
 
