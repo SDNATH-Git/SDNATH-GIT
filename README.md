@@ -1,7 +1,7 @@
 ![I am GitHub Readme Generator's creator](https://i.ibb.co.com/bwJNTL1/Black-Abstract-Software-Technology-Corporate-Linked-In-Banner-1584-x-540-px-1.png)
 
 
-<h1 >👋 Hi, I'm <span style="color:#4F46E5;">Shuvo Dev Nath</span></h1>
+<h1 >👋 Hi, I'm <span style="color:#4F46E5;">SD NATH</span></h1>
 <h3 >💻 Web Developer</h3>
 
 ---
@@ -67,8 +67,8 @@ Currently diving deeper into advanced **Next.js** concepts and **server-side ren
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SDNATH-Git&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SDNATH-Git&theme=tokyonight" alt="GitHub Streak" height="150"/>
 </p>
 
 <p align="center">
@@ -76,20 +76,9 @@ Currently diving deeper into advanced **Next.js** concepts and **server-side ren
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR-GITHUB-USERNAME&theme=tokyonight" alt="GitHub Metrics"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SDNATH-Git&theme=tokyonight" alt="GitHub Metrics"/>
 </p>
 
----
-
-## 📈 Fun Facts
-- ✨ I love creating **clean, minimal** UI designs.
-- 📚 Always learning — recently exploring **backend integration** with MongoDB.
-- 🎯 Goal: Become a **Full Stack Developer** within the next year.
-
----
-
-> 💡 **Note:** Replace `YOUR-GITHUB-USERNAME`, `YOUR-LINKEDIN`, `YOUR-TWITTER` with your actual profile links.  
-> Upload a **banner.png** in `assets/` and make sure image URLs are correct.
 
 
 
@@ -99,18 +88,4 @@ Currently diving deeper into advanced **Next.js** concepts and **server-side ren
 
 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SDNATH-GIT)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SDNATH-GIT)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SDNATH-GIT)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SDNATH-GIT&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/SDNATH-GIT/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/SDNATH-GIT)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=SDNATH-GIT)  
 
