@@ -68,16 +68,17 @@ Currently diving deeper into advanced **Next.js** concepts and **server-side ren
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SDNATH-Git&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SDNATH-Git&theme=tokyonight" alt="GitHub Streak" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=SDNATH-Git&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+<p align="">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDNATH-Git&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
 </p>
 
-<p align="center">
+<p align="">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SDNATH-Git&theme=tokyonight" alt="GitHub Metrics"/>
 </p>
+
 
 
 
