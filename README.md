@@ -1,24 +1,25 @@
 ![I am GitHub Readme Generator's creator](https://i.ibb.co.com/Sw5VhRnC/Black-Abstract-Software-Technology-Corporate-Linked-In-Banner.png)
-<!-- Banner Image -->
+
+ <!-- Profile Banner -->
 ![Banner](assets/banner.png)
 
-# 👋 Hi, I'm **Shuvo Dev Nath**
-### 💻 Frontend Developer | Web Developer
+<h1 align="center">👋 Hi, I'm <span style="color:#4F46E5;">Shuvo Dev Nath</span></h1>
+<h3 align="center">💻 Frontend Developer | Web Developer</h3>
 
 ---
 
-## 👨‍💻 About Me
-I am a passionate frontend developer who loves building modern, responsive, and user-friendly web applications.  
-I enjoy solving real-world problems using clean, efficient, and maintainable code.  
-Currently, I’m expanding my skills into advanced JavaScript frameworks and backend technologies.  
+## 🚀 About Me
+I am a passionate frontend developer who enjoys crafting **modern, responsive** and **user-focused** web applications.  
+I specialize in turning ideas into reality using **React, Tailwind CSS, and JavaScript**.  
+Currently diving deeper into advanced **Next.js** concepts and **server-side rendering**.
 
 ---
 
 ## 📌 Current Activities
-- 🚀 Exploring **Next.js** and server-side rendering.
-- 🏞️ Working on a **Tourism Website** project.
-- 📊 Building advanced **data visualization features** using Chart.js.
-- 🌱 Improving UI/UX in my **Food Sharing** project.
+- 🚀 Exploring **Next.js** and its ecosystem.
+- 🏞️ Developing a **Tourism Website** project.
+- 📊 Implementing advanced **data visualizations** with Chart.js.
+- 🌱 Enhancing UI/UX in my **Food Sharing** project.
 
 ---
 
@@ -26,25 +27,25 @@ Currently, I’m expanding my skills into advanced JavaScript frameworks and bac
 
 **Frontend**
 <br>
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![React](https://skillicons.dev/icons?i=react)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
 
-**Backend / Databases**
+**Backend & Database**
 <br>
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-%23000000.svg?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
 **Tools & Deployment**
 <br>
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=firebase&logoColor=black)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Netlify](https://skillicons.dev/icons?i=netlify)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
 ---
 
@@ -55,15 +56,33 @@ Currently, I’m expanding my skills into advanced JavaScript frameworks and bac
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight)
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight" alt="GitHub Streak" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR-GITHUB-USERNAME&theme=tokyonight" alt="GitHub Metrics"/>
+</p>
 
 ---
 
-> 💡 **Tip:** Replace `YOUR-GITHUB-USERNAME`, `YOUR-LINKEDIN`, `YOUR-TWITTER` with your actual details,  
-> upload a `banner.png` in the `assets/` folder, and adjust the About Me section to reflect your personality.
+## 📈 Fun Facts
+- ✨ I love creating **clean, minimal** UI designs.
+- 📚 Always learning — recently exploring **backend integration** with MongoDB.
+- 🎯 Goal: Become a **Full Stack Developer** within the next year.
+
+---
+
+> 💡 **Note:** Replace `YOUR-GITHUB-USERNAME`, `YOUR-LINKEDIN`, `YOUR-TWITTER` with your actual profile links.  
+> Upload a **banner.png** in `assets/` and make sure image URLs are correct.
+
 
 
 
