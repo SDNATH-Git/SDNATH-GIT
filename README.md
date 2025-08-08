@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://i.ibb.co.com/S71D4qw6/Black-Abstract-Software-Technology-Corporate-Linked-In-Banner-1584-x-540-px.png)
+![I am GitHub Readme Generator's creator](https://i.ibb.co.com/bwJNTL1/Black-Abstract-Software-Technology-Corporate-Linked-In-Banner-1584-x-540-px-1.png)
 
 
 <h1 >👋 Hi, I'm <span style="color:#4F46E5;">Shuvo Dev Nath</span></h1>
