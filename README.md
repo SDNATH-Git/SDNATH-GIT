@@ -7,9 +7,10 @@
 ---
 
 ## 🚀 About Me
-I am a passionate frontend developer who enjoys crafting **modern, responsive** and **user-focused** web applications.  
-I specialize in turning ideas into reality using **React, Tailwind CSS, and JavaScript**.  
-Currently diving deeper into advanced **Next.js** concepts and **server-side rendering**.
+I am a passionate frontend developer who enjoys crafting **modern, responsive**, and **user-focused** web applications.  
+I specialize in turning ideas into reality using **React, Tailwind CSS, and JavaScript**, along with building robust backend solutions using **Node.js, Express.js, and MongoDB**.  
+Currently diving deeper into advanced **Next.js** concepts and **server-side rendering** to create full-stack, high-performance applications.
+
 
 ---
 
