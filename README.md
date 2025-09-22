@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/4R5pg3G0/Copy-of-Black-Abstract-Software-Technology-Corporate-Linked-In-Banner.jpg" alt="GitHub Banner" width="100%" />
+  <img src="https://i.ibb.co.com/1tnjK45b/Copy-of-Black-Abstract-Software-Technology-Corporate-Linked-In-Banner-1.jpg" alt="GitHub Banner" width="100%" />
 </p>
 
 
