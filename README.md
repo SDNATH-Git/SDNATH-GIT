@@ -1,4 +1,7 @@
-![I am GitHub Readme Generator's creator](https://i.ibb.co.com/bwJNTL1/Black-Abstract-Software-Technology-Corporate-Linked-In-Banner-1584-x-540-px-1.png)
+<p align="center">
+  <img src="https://i.ibb.co.com/bwJNTL1/Black-Abstract-Software-Technology-Corporate-Linked-In-Banner-1584-x-540-px-1.png" alt="GitHub Banner" width="100%" />
+</p>
+
 
 
 <h1 >👋 Hi, I'm <span style="color:#4F46E5;">SD NATH</span></h1>
