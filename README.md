@@ -12,46 +12,10 @@
 </h1>
 
 
-
-
 ---
 
 ## 🚀 About Me
-
-<table>
-  <tr>
-    <!-- Left Column: Image Slider -->
-    <td width="45%" valign="top" align="center">
-      <div style="display:flex; overflow-x:auto; gap:10px; scroll-snap-type:x mandatory; padding:5px;">
-        <img src="./img1.png" width="200" height="250" style="border-radius:15px; scroll-snap-align:start;">
-        <img src="./img.png" width="200" height="250" style="border-radius:15px; scroll-snap-align:start;">
-        <img src="./img2.png" width="200" height="250" style="border-radius:15px; scroll-snap-align:start;">
-      </div>
-      <p style="font-size:12px; color:gray;">Scroll horizontally →</p>
-    </td>
-
-    <!-- Right Column: About Me -->
-    <td width="55%" valign="top">
-      <h2>🚀 About Me</h2>
-      <p>
-        Hello! I'm <b>SD NATH</b>, a passionate MERN stack developer. My programming journey started 
-        with curiosity about the web, and since then, I've been crafting dynamic web apps using 
-        <b>JavaScript, React, Node.js, Express.js, and MongoDB</b>.<br><br>
-        I enjoy building interactive, user-friendly interfaces and solving complex problems with creative solutions.
-        Continuous learning is my fuel.
-      </p>
-
-      <p>
-        <b>🖥️ Programming & Web Development</b> &nbsp;&nbsp; <b>🎨 Painting</b> <br>
-        <b>🥾 Hiking & Outdoors</b>
-      </p>
-
-      <p><i>"I believe creativity and technical skills combined can build inspiring solutions that make a difference."</i></p>
-    </td>
-  </tr>
-</table>
-
-
+I am a passionate frontend developer who enjoys crafting **modern, responsive**, and **user-focused** web applications. I specialize in turning ideas into reality using **React, Typescript, Tailwind CSS, and JavaScript**, along with building robust backend solutions using **Node.js, Express.js, and MongoDB**. Currently diving deeper into advanced **Next.js** concepts and **server-side rendering** to create full-stack, high-performance applications.
 
 ---
 
