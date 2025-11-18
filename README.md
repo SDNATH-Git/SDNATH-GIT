@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=SDNATH-Git&style=for-the-badge)
 
 <a href="https://my-portfolio-e6d66.web.app/">
-  <img src="./banner.jpeg" alt="Coding" style="width:100%; height:100%; object-fit:cover; border-radius:10px;" />
+  <img src="https://ibb.co.com/4gXn0J09" alt="Coding" style="width:100%; height:100%; object-fit:cover; border-radius:10px;" />
 </a>
 
 
