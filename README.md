@@ -1,14 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=SDNATH-Git&style=for-the-badge)
 
 <a href="https://my-portfolio-e6d66.web.app/">
-  <img src="./banner.jpeg" alt="Coding" style="width:600px; height:600px;" />
+  <img src="./banner.jpeg" alt="Coding" style="width:100%; height:400px; object-fit:cover; border-radius:10px;" />
 </a>
----
+
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Shuvo+Dev+Nath....;Professional+Mern+stack+Developer...;Nice+to+meet+you!&center=true&size=40">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Shuvo+Dev+Nath....;Professional+Mern+stack+Developer...;Nice+to+meet+you!&center=true&size=40&width=1200&height=200">
   </a>
 </h1>
+
 
 
 ---
