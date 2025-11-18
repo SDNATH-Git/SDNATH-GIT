@@ -1,10 +1,10 @@
-![](https://komarev.com/ghpvc/?username=Nur-Adnan&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=SDNATH-Git&style=for-the-badge)
 
-<img align=”right” alt=”Coding” width=”400” src="./banner.jpeg"/>
+<img align=”right” alt=”Coding” width=”400” height="600" src="./banner.jpeg"/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Nur+Adnan....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Shuvo+Dev+Nath....;Professional+Mern+stack+Developer...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
