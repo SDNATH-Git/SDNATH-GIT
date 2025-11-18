@@ -16,9 +16,33 @@
 ---
 
 ## 🚀 About Me
-I am a passionate frontend developer who enjoys crafting **modern, responsive**, and **user-focused** web applications.  
-I specialize in turning ideas into reality using **React, Tailwind CSS, and JavaScript**, along with building robust backend solutions using **Node.js, Express.js, and MongoDB**.  
-Currently diving deeper into advanced **Next.js** concepts and **server-side rendering** to create full-stack, high-performance applications.
+<table>
+  <tr>
+    <!-- Left Column: About Me -->
+    <td width="50%" valign="top">
+      <h2>🚀 About Me</h2>
+      <p>
+        I am a passionate frontend developer who enjoys crafting <b>modern, responsive</b>, 
+        and <b>user-focused</b> web applications.<br>
+        I specialize in turning ideas into reality using <b>React, Typescript, Tailwind CSS, and JavaScript</b>, 
+        along with building robust backend solutions using <b>Node.js, Express.js, and MongoDB</b>.<br>
+        Currently diving deeper into advanced <b>Next.js</b> concepts and <b>server-side rendering</b> 
+        to create full-stack, high-performance applications.
+      </p>
+    </td>
+
+    <!-- Right Column: Sliding Images -->
+    <td width="50%" valign="top" align="center">
+      <div style="display:flex; overflow-x:auto; gap:10px;">
+        <img src="./img1.jpeg" alt="Project 1" width="180" height="120" style="border-radius:10px;">
+        <img src="./img2.jpeg" alt="Project 2" width="180" height="120" style="border-radius:10px;">
+        <img src="./img3.jpeg" alt="Project 3" width="180" height="120" style="border-radius:10px;">
+      </div>
+      <p style="font-size:12px; color:gray;">Scroll horizontally to see projects →</p>
+    </td>
+  </tr>
+</table>
+
 
 
 ---
