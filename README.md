@@ -1,18 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=SDNATH-Git&style=for-the-badge)
 
-<img align=”right” alt=”Coding” width=”400” height="600" src="./banner.jpeg"/>
+<a href="https://my-portfolio-e6d66.web.app/">
+<img align=”right” alt=”Coding” width=”600” height="600" src="./banner.jpeg"/>
+</a>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Shuvo+Dev+Nath....;Professional+Mern+stack+Developer...;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Shuvo+Dev+Nath....; Professional+Mern+stack+Developer...;Nice+to+meet+you!&center=true&size=40">
   </a>
 </h1>
 
-
-
-
-<h1 >👋 Hi, I'm <span style="color:#4F46E5;">SD NATH</span></h1>
-<h3 >💻 Web Developer</h3>
 
 ---
 
