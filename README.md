@@ -1,6 +1,12 @@
-<p align="center">
-  <img src="https://i.ibb.co.com/0V6RzQz8/banner.jpg" alt="GitHub Banner" width=”400” />
-</p>
+![](https://komarev.com/ghpvc/?username=Nur-Adnan&style=for-the-badge)
+
+<img align=”right” alt=”Coding” width=”400” src="./banner.jpeg"/>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Nur+Adnan....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 
 
