@@ -79,7 +79,8 @@ I am a passionate frontend developer who enjoys crafting **modern, responsive**,
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SDNATH-Git&theme=tokyonight&hide_border=false)  
 
 ### 🔥 GitHub Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SDNATH-Git&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=SDNATH-Git&theme=tokyonight)
+
 
 
 <!-- Top Languages -->
