@@ -90,6 +90,7 @@ I am a passionate frontend developer who enjoys crafting **modern, responsive**,
 ![GitHub Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SDNATH-Git&theme=tokyonight)  
 
 
+![Test](https://github-readme-stats.vercel.app/api?username=SDNATH-Git)
 
 
 
