@@ -81,23 +81,11 @@ I am a passionate frontend developer who enjoys crafting **modern, responsive**,
 ### 🔥 GitHub Contribution Streak -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=SDNATH-Git&theme=tokyonight) 
 
-
-
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SDNATH-Git&layout=compact&theme=tokyonight&hide_border=false)  
 
 <!-- Profile Summary -->
 ![GitHub Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SDNATH-Git&theme=tokyonight)  
-
-
-
-## 📊 GitHub Overview
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SDNATH-Git&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SDNATH-Git&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SDNATH-Git&layout=compact&theme=tokyonight)
 
 
 
