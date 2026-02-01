@@ -90,7 +90,39 @@ I am a passionate frontend developer who enjoys crafting **modern, responsive**,
 ![GitHub Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SDNATH-Git&theme=tokyonight)  
 
 
-![Test](https://github-readme-stats.vercel.app/api?username=SDNATH-Git)
+<!-- -->
+<h1 align="center">Hi 👋, I'm Shuvo Dev Nath</h1>
+<h3 align="center">MERN Stack Developer | Growth & Communication Enthusiast</h3>
+
+---
+
+### 🔥 GitHub Contribution Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SDNATH-Git&theme=tokyonight" />
+</p>
+
+---
+
+### 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SDNATH-Git&theme=tokyonight" />
+</p>
+
+---
+
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,firebase,git" />
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="center">
+  <a href="https://github.com/SDNATH-Git">GitHub</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a>
+</p>
+
 
 
 
