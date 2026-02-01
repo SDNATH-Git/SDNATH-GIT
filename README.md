@@ -33,9 +33,10 @@ I am a passionate frontend developer who enjoys crafting **modern, responsive**,
 <br>
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![React](https://skillicons.dev/icons?i=react)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+
 
 **Backend & Database**
 <br>
