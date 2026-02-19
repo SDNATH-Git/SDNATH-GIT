@@ -78,7 +78,7 @@ I am a passionate frontend developer who enjoys crafting **modern, responsive**,
 <!-- GitHub Stats  -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SDNATH-Git&show_icons=true&theme=tokyonight&hide_border=false)  
 
-<!-- Streak - Stats -->
+<!-- Streak -- Stats -->
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SDNATH-Git&theme=tokyonight&hide_border=false)  
 
 ### 🔥 GitHub Contribution Streak  -->
