@@ -2,7 +2,7 @@
 
 <a href="https://my-portfolio-e6d66.web.app/">
   <!-- <img src="img.jpeg" alt="Coding" style="width:100%; height:100%; object-fit:cover; border-radius:10px;" /> -->
-   <img src="COVER github.png" alt="Coding" style="width:100%; height:100%; object-fit:cover; border-radius:10px;" />
+   <img src="git.png" alt="Coding" style="width:100%; height:100%; object-fit:cover; border-radius:10px;" />
 </a>
 
 
