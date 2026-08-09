@@ -89,7 +89,7 @@ I am a passionate frontend developer who enjoys crafting **modern, responsive**,
 <!-- Top Languages status  -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SDNATH-Git&layout=compact&theme=tokyonight&hide_border=false)  
 
-<!-- Profile Summary status 8/8/2026 update today -->
+<!-- Profile Summary status 9/8/2026  -->
 ![GitHub Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SDNATH-Git&theme=tokyonight)  
 
 
